@@ -1,0 +1,248 @@
+{
+  "intro": [
+    {
+      "i": 0,
+      "role": "narrator",
+      "text": "7:03 a.m. Yuna and Kuba in one bed. The morning is about to get… interesting.",
+      "file": "audio/voice/intro_0_7-03-a-m-yuna-and-kuba-in-one-bed-the-morning-is.mp3"
+    },
+    {
+      "i": 1,
+      "role": "yuna",
+      "text": "Jaaaaa Pororo da!",
+      "file": "audio/voice/intro_1_jaaaaa-pororo-da.mp3"
+    },
+    {
+      "i": 2,
+      "role": "yuna",
+      "text": "Wawawawa!",
+      "file": "audio/voice/intro_2_wawawawa.mp3"
+    },
+    {
+      "i": 3,
+      "role": "kuba",
+      "text": "Kochanie, this is no time for that — we have to defeat Lucjusz!",
+      "file": "audio/voice/intro_3_kochanie-this-is-no-time-for-that-we-have-to-def.mp3"
+    },
+    {
+      "i": 4,
+      "role": "lucjusz",
+      "text": "Meow. This is not theft. It is quality control.",
+      "file": "audio/voice/intro_4_meow-this-is-not-theft-it-is-quality-control.mp3"
+    },
+    {
+      "i": 5,
+      "role": "together",
+      "text": "Drop the kimchi, you furry criminal!",
+      "file": "audio/voice/intro_5_drop-the-kimchi-you-furry-criminal.mp3"
+    },
+    {
+      "i": 6,
+      "role": "mission",
+      "text": "Endless chase. Survive. Score. Catch the vibe — if not the cat.",
+      "file": "audio/voice/intro_6_endless-chase-survive-score-catch-the-vibe-if-no.mp3"
+    }
+  ],
+  "villain": [
+    {
+      "i": 0,
+      "text": "You fools! The kimchi belongs to the night!",
+      "file": "audio/voice/villain_00_you-fools-the-kimchi-belongs-to-the-night.mp3"
+    },
+    {
+      "i": 1,
+      "text": "Kneel before the Whiskered Overlord!",
+      "file": "audio/voice/villain_01_kneel-before-the-whiskered-overlord.mp3"
+    },
+    {
+      "i": 2,
+      "text": "Your breakfast ends here, mortals!",
+      "file": "audio/voice/villain_02_your-breakfast-ends-here-mortals.mp3"
+    },
+    {
+      "i": 3,
+      "text": "I am inevitable… and also very fluffy.",
+      "file": "audio/voice/villain_03_i-am-inevitable-and-also-very-fluffy.mp3"
+    },
+    {
+      "i": 4,
+      "text": "Catch me if you can, cabbage peasants!",
+      "file": "audio/voice/villain_04_catch-me-if-you-can-cabbage-peasants.mp3"
+    },
+    {
+      "i": 5,
+      "text": "This jar is my destiny. Your coffee is weak.",
+      "file": "audio/voice/villain_05_this-jar-is-my-destiny-your-coffee-is-weak.mp3"
+    },
+    {
+      "i": 6,
+      "text": "Mwahahaha! Fermentation is power!",
+      "file": "audio/voice/villain_06_mwahahaha-fermentation-is-power.mp3"
+    },
+    {
+      "i": 7,
+      "text": "You cannot outrun a nap-powered villain!",
+      "file": "audio/voice/villain_07_you-cannot-outrun-a-nap-powered-villain.mp3"
+    },
+    {
+      "i": 8,
+      "text": "Behold my evil plan: snack, then nap, then snack!",
+      "file": "audio/voice/villain_08_behold-my-evil-plan-snack-then-nap-then-snack.mp3"
+    },
+    {
+      "i": 9,
+      "text": "I stole it fair and square. Mostly square.",
+      "file": "audio/voice/villain_09_i-stole-it-fair-and-square-mostly-square.mp3"
+    },
+    {
+      "i": 10,
+      "text": "Your love cannot defeat my hunger!",
+      "file": "audio/voice/villain_10_your-love-cannot-defeat-my-hunger.mp3"
+    },
+    {
+      "i": 11,
+      "text": "Tremble! For I am Lucjusz, Destroyer of Mornings!",
+      "file": "audio/voice/villain_11_tremble-for-i-am-lucjusz-destroyer-of-mornings.mp3"
+    },
+    {
+      "i": 12,
+      "text": "Every leaf you grab only fuels my legend!",
+      "file": "audio/voice/villain_12_every-leaf-you-grab-only-fuels-my-legend.mp3"
+    },
+    {
+      "i": 13,
+      "text": "Yuna! Kuba! You are too slow for greatness!",
+      "file": "audio/voice/villain_13_yuna-kuba-you-are-too-slow-for-greatness.mp3"
+    },
+    {
+      "i": 14,
+      "text": "The couch empire will rise again!",
+      "file": "audio/voice/villain_14_the-couch-empire-will-rise-again.mp3"
+    },
+    {
+      "i": 15,
+      "text": "I laugh at your slippers. Ha. Ha. Ha.",
+      "file": "audio/voice/villain_15_i-laugh-at-your-slippers-ha-ha-ha.mp3"
+    },
+    {
+      "i": 16,
+      "text": "Give up! The kimchi has chosen me!",
+      "file": "audio/voice/villain_16_give-up-the-kimchi-has-chosen-me.mp3"
+    },
+    {
+      "i": 17,
+      "text": "Evil never sleeps… unless there is sun.",
+      "file": "audio/voice/villain_17_evil-never-sleeps-unless-there-is-sun.mp3"
+    },
+    {
+      "i": 18,
+      "text": "You chase, I scheme. That is the natural order!",
+      "file": "audio/voice/villain_18_you-chase-i-scheme-that-is-the-natural-order.mp3"
+    },
+    {
+      "i": 19,
+      "text": "One day all jars will bow to me!",
+      "file": "audio/voice/villain_19_one-day-all-jars-will-bow-to-me.mp3"
+    },
+    {
+      "i": 20,
+      "text": "Your jumps amuse me, soft humans!",
+      "file": "audio/voice/villain_20_your-jumps-amuse-me-soft-humans.mp3"
+    },
+    {
+      "i": 21,
+      "text": "I am not a thief. I am a snack visionary!",
+      "file": "audio/voice/villain_21_i-am-not-a-thief-i-am-a-snack-visionary.mp3"
+    },
+    {
+      "i": 22,
+      "text": "Feel the wrath of my tiny evil paws!",
+      "file": "audio/voice/villain_22_feel-the-wrath-of-my-tiny-evil-paws.mp3"
+    },
+    {
+      "i": 23,
+      "text": "Breakfast is cancelled. Permanently.",
+      "file": "audio/voice/villain_23_breakfast-is-cancelled-permanently.mp3"
+    },
+    {
+      "i": 24,
+      "text": "Run, run, little heroes… straight into despair!",
+      "file": "audio/voice/villain_24_run-run-little-heroes-straight-into-despair.mp3"
+    },
+    {
+      "i": 25,
+      "text": "The cabbage prophecy is complete!",
+      "file": "audio/voice/villain_25_the-cabbage-prophecy-is-complete.mp3"
+    },
+    {
+      "i": 26,
+      "text": "No laser pointers can stop me now!",
+      "file": "audio/voice/villain_26_no-laser-pointers-can-stop-me-now.mp3"
+    },
+    {
+      "i": 27,
+      "text": "I have 9 lives and 0 mercy!",
+      "file": "audio/voice/villain_27_i-have-9-lives-and-0-mercy.mp3"
+    },
+    {
+      "i": 28,
+      "text": "Your morning energy is adorable. And doomed.",
+      "file": "audio/voice/villain_28_your-morning-energy-is-adorable-and-doomed.mp3"
+    },
+    {
+      "i": 29,
+      "text": "Kiss the jar goodbye, fools!",
+      "file": "audio/voice/villain_29_kiss-the-jar-goodbye-fools.mp3"
+    },
+    {
+      "i": 30,
+      "text": "Chaos. Kimchi. Conquest.",
+      "file": "audio/voice/villain_30_chaos-kimchi-conquest.mp3"
+    },
+    {
+      "i": 31,
+      "text": "I will rule from the highest shelf!",
+      "file": "audio/voice/villain_31_i-will-rule-from-the-highest-shelf.mp3"
+    },
+    {
+      "i": 32,
+      "text": "Meow means MWAHAHA in villain.",
+      "file": "audio/voice/villain_32_meow-means-mwahaha-in-villain.mp3"
+    },
+    {
+      "i": 33,
+      "text": "Even the vacuum fears me!",
+      "file": "audio/voice/villain_33_even-the-vacuum-fears-me.mp3"
+    },
+    {
+      "i": 34,
+      "text": "You want the kimchi? Come and take it!",
+      "file": "audio/voice/villain_34_you-want-the-kimchi-come-and-take-it.mp3"
+    },
+    {
+      "i": 35,
+      "text": "I am the final boss of breakfast!",
+      "file": "audio/voice/villain_35_i-am-the-final-boss-of-breakfast.mp3"
+    },
+    {
+      "i": 36,
+      "text": "Hope is just a warm blanket. I shredded it.",
+      "file": "audio/voice/villain_36_hope-is-just-a-warm-blanket-i-shredded-it.mp3"
+    },
+    {
+      "i": 37,
+      "text": "The leaves are bait. Everything is bait.",
+      "file": "audio/voice/villain_37_the-leaves-are-bait-everything-is-bait.mp3"
+    },
+    {
+      "i": 38,
+      "text": "Cry more. It seasons the kimchi.",
+      "file": "audio/voice/villain_38_cry-more-it-seasons-the-kimchi.mp3"
+    },
+    {
+      "i": 39,
+      "text": "Tonight, I dine on victory. And fish.",
+      "file": "audio/voice/villain_39_tonight-i-dine-on-victory-and-fish.mp3"
+    }
+  ]
+}
